@@ -1,28 +1,33 @@
+<div align="center">
+
 # AIFITWEAR
 
 *Unleash Your Creativity with Personalized 3D Apparel*
 
-![last commit](https://img.shields.io/badge/last%20commit-yesterday-blue)
-![javascript](https://img.shields.io/badge/javascript-98.5%25-yellow)
-![languages](https://img.shields.io/badge/languages-3-blue)
+<img src="https://img.shields.io/badge/last%20commit-yesterday-blue" alt="last commit">
+<img src="https://img.shields.io/badge/javascript-98.5%25-yellow" alt="javascript">
+<img src="https://img.shields.io/badge/languages-3-blue" alt="languages">
 
 ## Built with the tools and technologies:
 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql)
-![Replicate](https://img.shields.io/badge/-Replicate-purple?style=flat-square&logo=replicate)
-![npm](https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm)
-![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-orange?style=flat-square&logo=autoprefixer)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![PostCSS](https://img.shields.io/badge/-PostCSS-red?style=flat-square&logo=postcss)
-![ESLint](https://img.shields.io/badge/-ESLint-yellow?style=flat-square&logo=eslint)
-![ThreeJS](https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js)
-![NextJS](https://img.shields.io/badge/-NextJS-green?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-blue?style=flat-square&logo=cloudinary)
-![Vite](https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite)
-![Prisma](https://img.shields.io/badge/-Prisma-blue?style=flat-square&logo=prisma)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" alt="Express">
+<img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" alt="SQL">
+<img src="https://img.shields.io/badge/-Replicate-purple?style=flat-square&logo=replicate" alt="Replicate">
+<img src="https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm" alt="npm">
+<img src="https://img.shields.io/badge/-Autoprefixer-orange?style=flat-square&logo=autoprefixer" alt="Autoprefixer">
+<img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB">
+<img src="https://img.shields.io/badge/-PostCSS-red?style=flat-square&logo=postcss" alt="PostCSS">
+<img src="https://img.shields.io/badge/-ESLint-yellow?style=flat-square&logo=eslint" alt="ESLint">
+<br>
+<img src="https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js" alt="ThreeJS">
+<img src="https://img.shields.io/badge/-NextJS-green?style=flat-square&logo=next.js" alt="NextJS">
+<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" alt="React">
+<img src="https://img.shields.io/badge/-Cloudinary-blue?style=flat-square&logo=cloudinary" alt="Cloudinary">
+<img src="https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite" alt="Vite">
+<img src="https://img.shields.io/badge/-Prisma-blue?style=flat-square&logo=prisma" alt="Prisma">
+<img src="https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai" alt="OpenAI">
+
+</div>
 
 ## Table of Contents
 
