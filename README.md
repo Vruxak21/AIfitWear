@@ -4,9 +4,9 @@
 
 *Unleash Your Creativity with Personalized 3D Apparel*
 
-<img src="https://img.shields.io/badge/last%20commit-yesterday-blue" alt="last commit">
-<img src="https://img.shields.io/badge/javascript-98.5%25-yellow" alt="javascript">
-<img src="https://img.shields.io/badge/languages-3-blue" alt="languages">
+<img src="https://img.shields.io/github/last-commit/Vruxak21/AIFitWear" alt="last commit">
+<img src="https://img.shields.io/github/languages/top/Vruxak21/AIFitWear" alt="top language">
+<img src="https://img.shields.io/github/languages/count/Vruxak21/AIFitWear" alt="languages count">
 
 ## Built with the tools and technologies:
 
