@@ -11,21 +11,16 @@
 ## Built with the tools and technologies:
 
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" alt="Express">
-<img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" alt="SQL">
 <img src="https://img.shields.io/badge/-Replicate-purple?style=flat-square&logo=replicate" alt="Replicate">
 <img src="https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm" alt="npm">
 <img src="https://img.shields.io/badge/-Autoprefixer-orange?style=flat-square&logo=autoprefixer" alt="Autoprefixer">
-<img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB">
 <img src="https://img.shields.io/badge/-PostCSS-red?style=flat-square&logo=postcss" alt="PostCSS">
 <img src="https://img.shields.io/badge/-ESLint-yellow?style=flat-square&logo=eslint" alt="ESLint">
 <br>
 <img src="https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js" alt="ThreeJS">
-<img src="https://img.shields.io/badge/-NextJS-green?style=flat-square&logo=next.js" alt="NextJS">
 <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" alt="React">
 <img src="https://img.shields.io/badge/-Cloudinary-blue?style=flat-square&logo=cloudinary" alt="Cloudinary">
 <img src="https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite" alt="Vite">
-<img src="https://img.shields.io/badge/-Prisma-blue?style=flat-square&logo=prisma" alt="Prisma">
-<img src="https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai" alt="OpenAI">
 
 </div>
 
