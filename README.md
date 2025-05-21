@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm" alt="npm">
 <img src="https://img.shields.io/badge/-Autoprefixer-orange?style=flat-square&logo=autoprefixer" alt="Autoprefixer">
 <img src="https://img.shields.io/badge/-PostCSS-red?style=flat-square&logo=postcss" alt="PostCSS">
-<img src="https://img.shields.io/badge/-ESLint-yellow?style=flat-square&logo=eslint" alt="ESLint">
-<br>
 <img src="https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js" alt="ThreeJS">
 <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" alt="React">
 <img src="https://img.shields.io/badge/-Cloudinary-blue?style=flat-square&logo=cloudinary" alt="Cloudinary">
