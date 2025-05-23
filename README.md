@@ -10,22 +10,15 @@
 
 ## Built with the tools and technologies:
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=express&query=$.dependencies.express&prefix=v&logo=express&logoColor=white&color=black" alt="Express">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=react&query=$.dependencies.react&prefix=v&logo=react&logoColor=white&color=blue" alt="React">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=three.js&query=$.dependencies.three&prefix=v&logo=three.js&logoColor=white&color=black" alt="ThreeJS">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=npm&query=$.engines.npm&prefix=v&logo=npm&logoColor=white&color=red" alt="npm">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=autoprefixer&query=$.dependencies.autoprefixer&prefix=v&logo=autoprefixer&logoColor=white&color=orange" alt="Autoprefixer">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=mongodb&query=$.dependencies.mongodb&prefix=v&logo=mongodb&logoColor=white&color=green" alt="MongoDB">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=postcss&query=$.dependencies.postcss&prefix=v&logo=postcss&logoColor=white&color=red" alt="PostCSS">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=eslint&query=$.devDependencies.eslint&prefix=v&logo=eslint&logoColor=white&color=yellow" alt="ESLint">
-<br>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=next.js&query=$.dependencies.next&prefix=v&logo=next.js&logoColor=white&color=green" alt="NextJS">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=tailwindcss&query=$.dependencies.tailwindcss&prefix=v&logo=tailwindcss&logoColor=white&color=blue" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=cloudinary&query=$.dependencies.cloudinary&prefix=v&logo=cloudinary&logoColor=white&color=blue" alt="Cloudinary">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=vite&query=$.devDependencies.vite&prefix=v&logo=vite&logoColor=white&color=purple" alt="Vite">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=prisma&query=$.dependencies.prisma&prefix=v&logo=prisma&logoColor=white&color=blue" alt="Prisma">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=replicate&query=$.dependencies.replicate&prefix=v&logo=replicate&logoColor=white&color=purple" alt="Replicate">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Vruxak21/AIFitWear/master/package.json&label=openai&query=$.dependencies.openai&prefix=v&logo=openai&logoColor=white&color=black" alt="OpenAI">
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" alt="Express">
+<img src="https://img.shields.io/badge/-Replicate-purple?style=flat-square&logo=replicate" alt="Replicate">
+<img src="https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm" alt="npm">
+<img src="https://img.shields.io/badge/-Autoprefixer-orange?style=flat-square&logo=autoprefixer" alt="Autoprefixer">
+<img src="https://img.shields.io/badge/-PostCSS-red?style=flat-square&logo=postcss" alt="PostCSS">
+<img src="https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js" alt="ThreeJS">
+<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" alt="React">
+<img src="https://img.shields.io/badge/-Cloudinary-blue?style=flat-square&logo=cloudinary" alt="Cloudinary">
+<img src="https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite" alt="Vite">
 </div>
 
 </div>
